@@ -1,0 +1,6 @@
+Implement an Executor class in Java. The class provides a method to execute a
+job (i.e., a Runnable) after a given delay (in ms).
+Suppose the jobs executes in a very short time.
+Use a single thread to manage the schedule and execute the jobs.
+Use only the basic synchronization facilities provided by the language (i.e.,
+do not use the "new" library classes for synchronization).
