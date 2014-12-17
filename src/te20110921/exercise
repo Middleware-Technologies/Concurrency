@@ -1,0 +1,5 @@
+Implement a SyncStrIntMap class in java. It takes a Map <String,Integer> (supposed to be non 
+thread safe) at creation time and implements a thread safe version of the map. It provides the 
+usual get,put,remove,containsKey and size methods. The first three methods suspend the caller 
+if the passed key has not an associated value (methods get and remove) or if it has a already 
+one (method put).
