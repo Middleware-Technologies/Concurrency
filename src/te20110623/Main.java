@@ -1,4 +1,4 @@
-package te20110225;
+package te20110623;
 
 public class Main 
 {
